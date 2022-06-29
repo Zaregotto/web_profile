@@ -1,0 +1,12 @@
+.post {
+    display: flex;
+    flex-direction: column;
+}
+
+.post img {
+    width: 50px;
+    border-radius: 30px;
+}
+.message {
+    display: flex;
+}

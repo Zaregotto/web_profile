@@ -1,0 +1,9 @@
+.nav {
+    background-color: pink;
+    flex-direction: column;
+    width: 13%;
+}
+.navBar {
+    display: flex;
+    column-gap: 2%;
+}
