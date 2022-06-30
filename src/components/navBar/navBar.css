@@ -1,9 +1,18 @@
 .nav {
     background-color: pink;
     flex-direction: column;
-    width: 13%;
+    width: 100%;
 }
 .navBar {
     display: flex;
-    column-gap: 2%;
+    width: 13%;
+}
+
+.item a {
+    text-decoration: none;
+    color: black;
+}
+
+.item a.active {
+    color: blue;
 }
